@@ -1,0 +1,45 @@
+body {
+	font-family: "Lato", sans-serif;
+	color: gray;
+	font-weight: 300;
+}
+
+hr {
+	height: 4px;
+	border-width: 0;
+	color: #bcbbbb;
+	background-color: #bcbbbb;
+	width: 100%;
+}
+
+h1, h2 {
+	margin: 10px;
+}
+
+h3, p, a {
+	margin: 2px;
+}
+h1 {
+	font-size: 36px;
+}
+
+h3 {
+	font-size: 24px;	
+}
+
+.full-screen {
+	width: 100%
+}
+
+.float {
+	float: left;
+}
+
+.text-muted {
+	color: #bcbbbb;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
